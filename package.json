@@ -1,0 +1,16 @@
+{
+  "name": "TCG-LOG",
+  "version": "1.0.0",
+  "description": "A logger for trading cards!",
+  "main": "App.js",
+  "author": "Shifath Salam",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.3.4",
+    "mustache-express": "^1.2.8",
+    "nodemon": "^1.18.4"
+  }
+}
